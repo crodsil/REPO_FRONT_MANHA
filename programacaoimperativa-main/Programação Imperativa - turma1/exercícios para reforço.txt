@@ -1,0 +1,11 @@
+Exercícios 
+
+1) Armazene numa variável de memória a cotação do dólar. Armazene em uma outra variável de memória um valor em dólares. Faça um programa que converta o valor em doláres para reais. Mostre o resultado.
+
+2) Armazene um número numa variável de memória e imprima o seu sucessor e o seu antecessor. 
+
+3) Armazene números em 4 variáveis de memória e calcule o quadrado de cada um, somem estes quadrados e imprima o resultado.
+
+4) Calcule a média de quatro números inteiros armazenados em variáveis de memória. Imprima os números e a média.
+
+5) Calcule o quadrado de um número, ou seja, o produto de um número por si mesmo e imprima.
